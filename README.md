@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="sketch" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="sketch" width="22" height="22"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="22" height="22"/> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogabayu&layout=compact&hide=html" alt="YogaBayu" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogabayu&show_icons=true" alt="Yogabayu" />
 
