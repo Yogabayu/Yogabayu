@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoga Bayu AP</h1>
 <h3 align="center">A self-taught programmer and born at Earth</h3>
 
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/abuanwar072?label=Abuanwar072&logo=twitter&style=for-the-badge) -->
 ![GitHub followers](https://img.shields.io/github/followers/Yogabayu?logo=GitHub&style=for-the-badge)
 
 - 🌱 I’m currently learning **Flutter, Vue JS**
