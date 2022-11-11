@@ -3,6 +3,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Yogabayu?logo=GitHub&style=for-the-badge)
 
+- 🌱 I’m currently working  **Laravel, Flutter**
+
 - 🌱 I’m currently learning **Flutter, Vue JS**
 
 - 👯 I’m looking to collaborate with **other creators**
