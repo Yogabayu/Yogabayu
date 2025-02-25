@@ -3,9 +3,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Yogabayu?logo=GitHub&style=for-the-badge)
 
-- 🌱 I’m currently working  **Laravel, Flutter**
+- 🌱 I’m currently working  **Laravel, Vue JS**
 
-- 🌱 I’m currently learning **Golang, Flutter, Vue JS**
+- 🌱 I’m currently learning **Golang, Flutter**
 
 - 👯 I’m looking to collaborate with **other creators**
 
